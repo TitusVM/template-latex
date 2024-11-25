@@ -202,7 +202,8 @@
          \vspace*{1.5cm}
 
          {\large \bf Master of Science HES-SO in Engineering}\\[1.5ex]
-         {\mse@str@major: \mse@major}
+         % {\mse@str@major: \mse@major}
+         { \mse@major \ spec. Cybersecurity}
          \vspace{1.5cm}
 
          {\Huge \bf \@title \par}
