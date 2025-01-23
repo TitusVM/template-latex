@@ -37,7 +37,7 @@
 \RequirePackage{anysize}
 \RequirePackage{fancyhdr}
 \RequirePackage{listings}
-\RequirePackage[style=ieee, backend=biber]{biblatex}
+\RequirePackage[style=ieee, backend=biber, citestyle=numeric-comp]{biblatex}
 \RequirePackage{csquotes}
 \RequirePackage{setspace}
 
