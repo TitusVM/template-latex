@@ -5,9 +5,9 @@
 \newcommand{\mse@str@semester}{Semester Project}
 \newcommand{\mse@str@thesis}{Master Thesis}
 \newcommand{\mse@str@supportedby}{Supported by}
-\newcommand{\mse@str@professor}{Professor}
+\newcommand{\mse@str@professor}{Supervisor}
 \newcommand{\mse@str@proposedby}{Accepted by HES-SO//Master (Switzerland, Lausanne) on a proposal from}
-\newcommand{\mse@str@supervisor}{Supervisor}
+\newcommand{\mse@str@supervisor}{Industrial Advisor}
 \newcommand{\mse@str@advisor}{Advisor}
 \newcommand{\mse@str@headofmse}{Head of MSE}
 \newcommand{\mse@str@chapter}{Chapter}
